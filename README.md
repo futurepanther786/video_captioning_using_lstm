@@ -1,4 +1,4 @@
-## 🎥 Video Captioning Using CNN + LSTM
+# 🎥 Video Captioning Using CNN + LSTM
 
 This project implements a video captioning system using a Convolutional Neural Network (CNN) encoder and a Long Short-Term Memory (LSTM) decoder, trained on the **Microsoft Research Video Description Corpus (MSVD)** dataset. The system extracts features from video frames using **ResNet-152** and generates descriptive captions using an **LSTM-based decoder**.
 
@@ -116,4 +116,6 @@ Roll No: 21117028
 ## 📌 Citation
 
 If you use or reference this work, please consider citing it in academic or project work.
+
+
 
